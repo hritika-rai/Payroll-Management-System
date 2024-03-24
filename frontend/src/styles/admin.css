@@ -1,0 +1,54 @@
+/* admin.css */
+body {
+  background-color: #4D6C9A;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.admin-container {
+  text-align: center;
+}
+
+.links-container {
+  display: flex;
+  justify-content: center; /* Center the columns */
+  flex-wrap: wrap;
+}
+
+/* Adjusted styles for the link boxes */
+.link-box {
+  background-color: #344970;
+  padding: 20px;
+  border-radius: 5px;
+  margin: 10px;
+  min-width: 300px;
+}
+
+.link-box a {
+  color: #fff;
+  text-decoration: none;
+}
+
+/* Additional styles for the new column */
+.column {
+  display: flex;
+  flex-direction: column;
+}
+
+.logout-button-container {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+
+.logout-button {
+  background-color: #ffffff;
+  color: #02004B;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
