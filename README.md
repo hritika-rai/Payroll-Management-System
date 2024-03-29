@@ -25,6 +25,14 @@ Usage
 - Admin Portal: For managing employee details, payroll processing, and adding details.
 - Employee Portal: For employees to view payslips, records, and update personal information.
 
+![Screenshot 2024-03-17 003745](https://github.com/hritika-rai/Payroll-Management-System/assets/128460719/f5423d7a-43d6-480d-a16c-e2998f8d8eaa)
+
+![Screenshot 2024-03-17 003850](https://github.com/hritika-rai/Payroll-Management-System/assets/128460719/0566916f-52fa-42ae-89fd-4bf26887786a)
+
+
+![Screenshot 2024-03-17 004342](https://github.com/hritika-rai/Payroll-Management-System/assets/128460719/8f15afcc-4381-4684-b53d-0c35a677684d)
+
+
 Contributions
 - Hritika Rai and Noor Us Sabah collaborated on API design, database schema, and frontend/backend logic.
 
