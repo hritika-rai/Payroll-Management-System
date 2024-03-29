@@ -34,7 +34,7 @@ Usage
 
 
 Contributions
-- Hritika Rai and Noor Us Sabah collaborated on API design, database schema, and frontend/backend logic.
+- Hritika Rai and [Noor us Sabah](https://github.com/NoorusSabahh) collaborated on API design, database schema, and frontend/backend logic.
 
 Contact
 For more information or support, please contact hritikarathi08@gmail.com.
